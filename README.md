@@ -1,6 +1,5 @@
-# student-performance-analysis
-Exploratory Data Analysis and Student Risk Segmentation using Python
 # Student Performance Analysis (EDA & Insights)
+Exploratory Data Analysis and Student Risk Segmentation using Python
 
 An end-to-end exploratory data analysis and student risk segmentation project analyzing 1,000 student exam records across Mathematics, Reading, and Writing.
 
